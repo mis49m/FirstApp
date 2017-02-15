@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="first_num">Enter first number</string>
+    <string name="second_num">Enter second number</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+</resources>

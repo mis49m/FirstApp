@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="first_num">Birinci sayıyı giriniz</string>
+    <string name="second_num">İkinci sayıyı giriniz</string>
+    <string name="calculate">Hesapla</string>
+    <string name="result">Sonuç</string>
+</resources>
