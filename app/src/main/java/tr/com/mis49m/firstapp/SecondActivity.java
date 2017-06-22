@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+// second activity
 public class SecondActivity extends AppCompatActivity {
 
     public static String KEY_RESULT = "result";
