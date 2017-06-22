@@ -9,6 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+// main activity
 public class MainActivity extends AppCompatActivity {
 
     EditText etFirstNum, etSecondNum;
